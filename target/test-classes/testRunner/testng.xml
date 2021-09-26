@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="PlainIT Test">
+<test name="PlainIT Test">
+    <classes>
+        <class name="com.pragya.jain.pages.PlainITTest"/>
+    </classes>
+</test> 
+</suite>
